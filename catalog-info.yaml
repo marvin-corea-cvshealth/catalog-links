@@ -9,4 +9,4 @@ metadata:
 spec:
   targets:
     - https://github.com/marvin-corea-cvshealth/users/blob/main/catalog-info.yaml
-    - https://github.com/marvin-corea-cvshealth/cvs-notification-java-client/blob/main/catalog-info.yaml
+    
