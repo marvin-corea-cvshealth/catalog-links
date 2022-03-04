@@ -9,4 +9,13 @@ metadata:
 spec:
   targets:
     - https://github.com/marvin-corea-cvshealth/users/blob/main/catalog-info.yaml
+    - https://github.com/marvin-corea-cvshealth/basic-openapi/blob/main/catalog-info.yaml
     - https://github.com/marvin-corea-cvshealth/cvs-notification-java-client/blob/main/catalog-info.yaml
+    - https://github.com/marvin-corea-cvshealth/thin-cvs-java-notification-client/blob/main/catalog-info.yaml
+    - https://github.com/marvin-corea-cvshealth/cvs-notification-python-client/blob/main/catalog-info.yaml
+    - https://github.com/marvin-corea-cvshealth/cvs-sso-python-client/blob/main/catalog-info.yaml
+    - https://github.com/marvin-corea-cvshealth/cvs-sso-dotnet-client/blob/main/catalog-info.yaml
+    - https://github.com/marvin-corea-cvshealth/cvs-sso-node-client/blob/main/catalog-info.yaml
+    - https://github.com/marvin-corea-cvshealth/cvs-sso-java-client/blob/main/catalog-info.yaml
+    - https://github.com/mark-dutra/mark-demo/blob/main/catalog-info.yaml
+    - https://github.com/mark-dutra/sample-asset/blob/main/catalog-info.yaml
