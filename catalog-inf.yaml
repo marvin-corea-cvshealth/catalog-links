@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: catalog-info.yaml locations
+  title: List of yamls
+  description: List of catalog-info yamls
+  annotations:
+    'backstage.io/techdocs-ref': dir:.
+spec:
+  targets:
+    - https://github.com/marvin-corea-cvshealth/users/blob/main/catalog-info.yaml
+    - https://github.com/marvin-corea-cvshealth/cvs-notification-java-client/blob/main/catalog-info.yaml
